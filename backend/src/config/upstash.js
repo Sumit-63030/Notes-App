@@ -1,4 +1,4 @@
-import {Ratelimit} from "@upstash/Ratelimit"
+import {Ratelimit} from "@upstash/ratelimit"
 import { Redis } from "@upstash/redis";
 import dotenv from "dotenv"
 
