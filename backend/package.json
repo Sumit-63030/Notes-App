@@ -44,6 +44,9 @@
   "express": "^4.18.2",
  
    
+  "full-stack-projects": "file:..",
+ 
+   
   "mongoose": "^8.14.3",
  
    
